@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=这里替换成你的 GitHub ID&show_icons=true&count_private=true&theme=gotham)
+![csc666666's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username= https://csc666666.github.io/GitHub ID&show_icons=true&count_private=true&theme=gotham)
 
 **csc666666/csc666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
